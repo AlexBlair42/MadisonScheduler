@@ -4,3 +4,10 @@ C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\Madison
 C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.csproj.CoreCompileInputs.cache
 C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.exe
 C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.pdb
+F:\Dev\GitHub\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\bin\Debug\MadisonScheduler.exe.config
+F:\Dev\GitHub\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\bin\Debug\MadisonScheduler.exe
+F:\Dev\GitHub\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\bin\Debug\MadisonScheduler.pdb
+F:\Dev\GitHub\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.csprojAssemblyReference.cache
+F:\Dev\GitHub\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.csproj.CoreCompileInputs.cache
+F:\Dev\GitHub\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.exe
+F:\Dev\GitHub\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.pdb

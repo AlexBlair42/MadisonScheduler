@@ -13,6 +13,9 @@ namespace MadisonScheduler
             Teacher Teach = new Teacher();
             Console.WriteLine(Teach.Name);
 
+            Kindergarten Kin = new Kindergarten();
+            Kin.print_teacher_info();
+
             Console.ReadLine();
         }
     }
