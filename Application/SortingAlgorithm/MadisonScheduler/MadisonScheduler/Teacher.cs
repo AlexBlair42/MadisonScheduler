@@ -7,6 +7,13 @@ using System.Threading.Tasks;
 
 namespace MadisonScheduler
 {
+    enum TeacherTypes
+    {
+        Kinder,
+        First,
+        Second
+    }
+
     class Teacher
     {
         // Protected member variables with 
@@ -46,6 +53,11 @@ namespace MadisonScheduler
             status = false;
             grade = 0;
             time = 0;
+        }
+
+        public static Teacher CreaTeacher(TeacherTypes Type)
+        {
+            if (Type == Kind)
         }
 
     }
