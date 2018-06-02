@@ -10,10 +10,7 @@ namespace MadisonScheduler
     {
         static void Main(string[] args)
         {
-            Teacher Teach = new Teacher();
-            Console.WriteLine(Teach.Name);
 
-            Console.ReadLine();
         }
     }
 }

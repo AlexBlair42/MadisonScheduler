@@ -16,44 +16,12 @@ namespace MadisonScheduler
 
     class Teacher
     {
-        // Protected member variables with 
         protected String name;
         protected bool status;
         protected int grade;
-        protected int time;
+        protected int Time;
 
-        // Public Methods
-        public virtual string Name
-        {
-            get { return name; }
-            set { Name = name; }
-        }
-
-        public virtual bool Status
-        {
-            get { return status; }
-            set { Status = status; }
-        }
-
-        public virtual int Grade
-        {
-            get { return grade; }
-            set { Grade = grade; }
-        }
-
-        public virtual int Time
-        {
-            get { return time; }
-            set { Time = time; }
-        }
-
-        public Teacher()
-        {
-            name = "Teacher";
-            status = false;
-            grade = 0;
-            time = 0;
-        }
+        public virtual string get_name();
 
         public static Teacher CreaTeacher(TeacherTypes Type)
         {

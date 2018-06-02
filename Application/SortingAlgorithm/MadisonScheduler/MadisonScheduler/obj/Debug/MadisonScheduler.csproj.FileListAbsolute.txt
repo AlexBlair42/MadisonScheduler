@@ -1,6 +1,0 @@
-C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\bin\Debug\MadisonScheduler.exe.config
-C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\bin\Debug\MadisonScheduler.exe
-C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\bin\Debug\MadisonScheduler.pdb
-C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.csproj.CoreCompileInputs.cache
-C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.exe
-C:\GitHub\MadisonScheduler\MadisonScheduler\Application\SortingAlgorithm\MadisonScheduler\MadisonScheduler\obj\Debug\MadisonScheduler.pdb
