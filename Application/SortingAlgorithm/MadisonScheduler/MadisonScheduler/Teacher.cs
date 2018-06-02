@@ -7,13 +7,6 @@ using System.Threading.Tasks;
 
 namespace MadisonScheduler
 {
-    enum TeacherTypes
-    {
-        Kinder,
-        First,
-        Second
-    }
-
     class Teacher
     {
         protected String name;
@@ -22,11 +15,6 @@ namespace MadisonScheduler
         protected int Time;
 
         public virtual string get_name();
-
-        public static Teacher CreaTeacher(TeacherTypes Type)
-        {
-            if (Type == Kind)
-        }
 
     }
 }
