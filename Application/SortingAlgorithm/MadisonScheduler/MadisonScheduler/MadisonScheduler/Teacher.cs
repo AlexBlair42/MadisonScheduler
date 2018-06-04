@@ -8,5 +8,9 @@ namespace MadisonScheduler
 {
     class Teacher
     {
+        protected string name;
+        protected int grade;
+
+        public string Name {get;set;}
     }
 }

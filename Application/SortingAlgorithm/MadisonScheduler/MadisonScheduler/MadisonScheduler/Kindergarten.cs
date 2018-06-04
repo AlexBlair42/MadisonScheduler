@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MadisonScheduler
 {
-    class Kindergarten
+    class Kindergarten : Teacher
     {
+        
     }
 }

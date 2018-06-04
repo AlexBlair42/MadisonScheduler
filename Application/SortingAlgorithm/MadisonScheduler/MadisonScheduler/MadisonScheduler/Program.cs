@@ -10,6 +10,7 @@ namespace MadisonScheduler
     {
         static void Main(string[] args)
         {
+            Console.Out.WriteLine("Hello C#");
         }
     }
 }
