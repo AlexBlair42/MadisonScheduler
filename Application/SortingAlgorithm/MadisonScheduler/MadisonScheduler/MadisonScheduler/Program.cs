@@ -14,7 +14,7 @@ namespace MadisonScheduler
 
             Teacher Teach = new Teacher();
             Teach.Name = "Fred";
-
+            // Testing for Kinder
             Kindergarten Kinder = new Kindergarten();
             Kinder.print_Teacher_info();
         }
