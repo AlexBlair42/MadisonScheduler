@@ -11,6 +11,12 @@ namespace MadisonScheduler
         static void Main(string[] args)
         {
             Console.Out.WriteLine("Hello C#");
+
+            Teacher Teach = new Teacher();
+            Teach.Name = "Fred";
+
+            Kindergarten Kinder = new Kindergarten();
+            Kinder.print_Teacher_info();
         }
     }
 }

@@ -8,6 +8,10 @@ namespace MadisonScheduler
 {
     class Kindergarten : Teacher
     {
-        
+        public void print_Teacher_info()
+        {
+            Console.Out.WriteLine("This is a Kindergarten Teacher!");
+        }
+
     }
 }
