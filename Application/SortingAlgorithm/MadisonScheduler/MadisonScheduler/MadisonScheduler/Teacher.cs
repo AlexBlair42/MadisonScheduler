@@ -8,6 +8,7 @@ namespace MadisonScheduler
 {
     class Teacher
     {
+        // Member Variables
         protected string name;
         protected bool status;
         protected int grade;
