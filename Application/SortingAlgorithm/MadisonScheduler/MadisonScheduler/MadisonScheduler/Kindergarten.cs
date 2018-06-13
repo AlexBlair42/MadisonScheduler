@@ -13,5 +13,7 @@ namespace MadisonScheduler
             Console.Out.WriteLine("This is a Kindergarten Teacher!");
         }
 
+        private const int lunchMin = 45;
+
     }
 }

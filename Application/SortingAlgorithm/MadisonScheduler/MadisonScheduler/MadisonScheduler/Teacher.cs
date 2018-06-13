@@ -9,21 +9,21 @@ namespace MadisonScheduler
     class Teacher
     {
         // Member Variables
-        protected string name;
+        protected string name = "";
         protected bool status;
         protected int grade;
         protected int time;
 
         // Methods
+
+        // members should be mutable in case a teacher is assigned a new grade
         public virtual string Name {get;set;}
         public virtual bool Status {get;set;}
         public virtual int Grade {get; set;}
         public virtual int Time {get; set;}
 
-        public Teacher CreateTeacher()
-        {
-            return new Teacher();
-        }
+        // Factory Method for teacher
+        public Teacher CreateTeacher() => new Teacher();
 
     }
 }
