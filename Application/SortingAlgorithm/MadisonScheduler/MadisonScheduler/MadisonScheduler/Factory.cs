@@ -6,16 +6,27 @@ using System.Threading.Tasks;
 
 namespace MadisonScheduler
 {
-    enum TeacherType
-    {
-        Kindergarten, FirstGrade
-    }
 
+    enum TeacherType{
+        Kindergarten,
+        FirstGrade
+    }
     class Factory
     {
-        public Teacher CreateTeacher(TeacherType type)
-        {
-            
+
+        private int max_K = 3;
+
+        // Not sure where I went wrong here....
+
+        /*
+        public Factory make_teacher(TeacherType type)
+        {  
+            if (type == Kindergarten)
+            {
+                Kindergarten Kinder = new Kindergarten();
+            }
         }
+
+        */
     }
 }

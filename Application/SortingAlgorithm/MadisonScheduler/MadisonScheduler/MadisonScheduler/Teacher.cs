@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MadisonScheduler
 {
-    class Teacher
+    abstract class Teacher
     {
         // Member Variables
         protected string name = "";
@@ -21,9 +21,6 @@ namespace MadisonScheduler
         public virtual bool Status {get;set;}
         public virtual int Grade {get; set;}
         public virtual int Time {get; set;}
-
-        // Factory Method for teacher
-        public Teacher CreateTeacher() => new Teacher();
 
     }
 }

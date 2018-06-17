@@ -10,13 +10,24 @@ namespace MadisonScheduler
     {
         static void Main(string[] args)
         {
-            Console.Out.WriteLine("Hello C#");
+            
 
-            Teacher Teach = new Teacher();
-            Teach.Name = "Fred";
+            Console.Out.WriteLine("Hello C#");
             // Testing for Kinder
             Kindergarten Kinder = new Kindergarten();
             Kinder.print_Teacher_info();
+
+            // Testing for Factory Methods
+            Factory Fac = new Factory();
+            /*
+            for (int i = 0; i < max_K; i++)
+            {
+                Fac.Create_Teacher(Kindergarten);
+            }
+            */
+
+
+
         }
     }
 }
