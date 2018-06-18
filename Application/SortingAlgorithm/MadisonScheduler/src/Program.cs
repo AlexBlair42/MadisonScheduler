@@ -16,6 +16,12 @@ namespace MadisonScheduler
             // Testing for Kinder
             Kindergarten Kinder = new Kindergarten();
             Kinder.print_Teacher_info();
+
+            FirstGrade First = new FirstGrade();
+            First.print_Teacher_info();
+
+            SecondGrade Second = new SecondGrade();
+            Second.print_Teacher_info();
         
 
 
